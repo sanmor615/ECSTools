@@ -1,0 +1,92 @@
+Feb 20 11:36:55 - [DEBUG] start confirm_ossftp_exit
+Feb 20 11:36:55 - [INFO] ossftp started
+Feb 20 11:36:55 - [INFO] start ossftp time cost 4
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63353 GET /css/bootstrap.css 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63354 GET /css/bootstrap-responsive.css 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63355 GET /css/flat-ui.css 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63356 GET /css/ladda-themeless.min.css 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63357 GET /css/style.css 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63358 GET /js/jquery-1.11.2.min.js 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63359 GET /js/bootstrap.min.js 
+Feb 20 11:36:55 - [DEBUG] launcher web_control 127.0.0.1:63360 GET /js/flat-ui.min.js 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63361 GET /js/jquery.timer.js 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63362 GET /js/spin.min.js 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63363 GET /js/ladda.min.js 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63364 GET /js/site.js?20150512 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63365 GET /img/logo.png 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63366 GET /img/fixed-width.png 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63369 GET /config?cmd=get_config 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63370 GET /img/switch-mask.png 
+Feb 20 11:36:56 - [DEBUG] launcher web_control 127.0.0.1:63371 GET /favicon.ico 
+Feb 20 11:37:09 - [DEBUG] launcher web_control 127.0.0.1:63373 GET /quit 
+Feb 20 11:37:09 - [INFO] module ossftp stopped
+Feb 20 11:56:07 - [DEBUG] start confirm_ossftp_exit
+Feb 20 11:56:07 - [INFO] ossftp started
+Feb 20 11:56:07 - [INFO] start ossftp time cost 4
+Feb 20 11:56:08 - [DEBUG] launcher web_control 127.0.0.1:63703 GET /config?cmd=get_config 
+Feb 20 12:00:02 - [DEBUG] launcher web_control 127.0.0.1:63829 GET /quit 
+Feb 20 12:00:02 - [INFO] module ossftp stopped
+Feb 20 14:07:47 - [DEBUG] start confirm_ossftp_exit
+Feb 20 14:07:47 - [INFO] ossftp started
+Feb 20 14:07:47 - [INFO] start ossftp time cost 4
+Feb 20 14:07:48 - [DEBUG] launcher web_control 127.0.0.1:64849 GET /config?cmd=get_config 
+Feb 20 14:07:54 - [DEBUG] launcher web_control 127.0.0.1:64850 GET /config?cmd=set_config&auto_start=0&popup_webui=1&show_systray=1&ossftp_address=127.0.0.1&ossftp_port=2048&ossftp_loglevel=INFO&ossftp_bucketendpoints=test-hz-john-002.oss-cn-hangzhou.aliyuncs.com 
+Feb 20 14:07:54 - [INFO] Set config: {
+  "modules":{
+    "launcher":{
+      "auto_start":0,
+      "control_port":8192,
+      "popup_webui":1,
+      "show_systray":1
+    },
+    "ossftp":{
+      "address":"127.0.0.1",
+      "bucket_endpoints":"test-hz-john-002.oss-cn-hangzhou.aliyuncs.com",
+      "log_level":"INFO",
+      "port":2048
+    }
+  }
+}
+Feb 20 14:12:18 - [DEBUG] launcher web_control 127.0.0.1:64890 GET /config?cmd=get_config 
+Feb 20 14:12:22 - [DEBUG] launcher web_control 127.0.0.1:64891 GET /quit 
+Feb 20 14:12:22 - [INFO] module ossftp stopped
+Mar 15 15:34:45 - [DEBUG] start confirm_ossftp_exit
+Mar 15 15:34:45 - [INFO] ossftp started
+Mar 15 15:34:45 - [INFO] start ossftp time cost 4
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53948 GET /css/bootstrap.css 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53949 GET /css/bootstrap-responsive.css 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53950 GET /css/flat-ui.css 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53951 GET /css/ladda-themeless.min.css 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53952 GET /css/style.css 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53953 GET /js/jquery-1.11.2.min.js 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53954 GET /js/bootstrap.min.js 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53955 GET /js/flat-ui.min.js 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53956 GET /js/jquery.timer.js 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53957 GET /js/spin.min.js 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53958 GET /js/ladda.min.js 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53959 GET /js/site.js?20150512 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53960 GET /img/logo.png 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53961 GET /img/fixed-width.png 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53964 GET /config?cmd=get_config 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53965 GET /img/switch-mask.png 
+Mar 15 15:34:47 - [DEBUG] launcher web_control 127.0.0.1:53966 GET /favicon.ico 
+May  4 19:25:47 - [DEBUG] start confirm_ossftp_exit
+May  4 19:25:47 - [INFO] ossftp started
+May  4 19:25:47 - [INFO] start ossftp time cost 4
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54028 GET /css/bootstrap.css 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54029 GET /css/bootstrap-responsive.css 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54030 GET /css/flat-ui.css 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54031 GET /css/ladda-themeless.min.css 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54032 GET /css/style.css 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54033 GET /js/jquery-1.11.2.min.js 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54034 GET /js/bootstrap.min.js 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54035 GET /js/flat-ui.min.js 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54036 GET /js/jquery.timer.js 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54037 GET /js/spin.min.js 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54038 GET /js/ladda.min.js 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54039 GET /js/site.js?20150512 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54040 GET /img/logo.png 
+May  4 19:25:48 - [DEBUG] launcher web_control 127.0.0.1:54041 GET /img/fixed-width.png 
+May  4 19:25:49 - [DEBUG] launcher web_control 127.0.0.1:54042 GET /config?cmd=get_config 
+May  4 19:25:49 - [DEBUG] launcher web_control 127.0.0.1:54045 GET /img/switch-mask.png 
+May  4 19:25:49 - [DEBUG] launcher web_control 127.0.0.1:54046 GET /favicon.ico 
